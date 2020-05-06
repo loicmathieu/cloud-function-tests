@@ -1,0 +1,10 @@
+
+*.iml
+
+
+fruit-micronaut/.idea/
+fruit-micronaut/target/
+fruit-micronaut/deployment/
+
+fruit-rest/.idea
+
